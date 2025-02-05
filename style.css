@@ -57,6 +57,16 @@ button:hover {
 }
 
 #clear {
+    background: #6c757d;
+    color: white;
+}
+
+#equals {
+    background: #6c757d;
+    color: white;
+}
+
+/* #clear {
     background: #e74c3c;
     color: white;
 }
@@ -64,4 +74,4 @@ button:hover {
 #equals {
     background: #27ae60;
     color: white;
-}
+} */
